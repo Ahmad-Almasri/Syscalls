@@ -1,6 +1,6 @@
 # Syscalls
   + Assignment 2 :: Syscalls (popen,stat,fopen,fget,opendir)
-  +
+  =======================================================================
   + This program returns statistical data of a provided directory such as:
   + Largest file and its path
   + Total sum of all files sizes
